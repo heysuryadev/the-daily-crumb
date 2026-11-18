@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heysuryadev.github.io/the-daily-crumb/sitemap.xml
